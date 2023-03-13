@@ -1,4 +1,4 @@
-# Cookiecutter Conda Data Science
+# Cookiecutter for Data Science with python 
 
 _A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
 
@@ -22,7 +22,7 @@ conda install -c conda-forge cookiecutter
 In a folder where you want your project generated:
 
 ```bash
-cookiecutter https://github.com/jvelezmagic/cookiecutter-conda-data-science
+cookiecutter https://github.com/storreglosa/cookiecutter-data-science-python
 ```
 
 ## Resulting directory structure
@@ -82,7 +82,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 ## Credits
 
-This project is heavily influenced by [drivendata's Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science), [andfanilo's Cookiecutter for Kaggle Conda projects](https://github.com/andfanilo/cookiecutter-kaggle), and julia's package [DrWatson](https://juliadynamics.github.io/DrWatson.jl/dev/).
+This project is an adaptation of the [jvelezmagic cookiecutter-conda-data-science](https://github.com/jvelezmagic/cookiecutter-conda-data-science) which is, in turn heavily influenced by [drivendata's Cookiecutter Data Science](https://github.com/drivendata/cookiecutter-data-science), [andfanilo's Cookiecutter for Kaggle Conda projects](https://github.com/andfanilo/cookiecutter-kaggle), and julia's package [DrWatson](https://juliadynamics.github.io/DrWatson.jl/dev/).
 
 Other links that helped shape this cookiecutter :
 
